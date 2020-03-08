@@ -5,7 +5,6 @@ class ValidateWordsController < ApplicationController
 		puts word
 		result = valid_word word
 		render json: result
-#{"test"=>"helloworld"}
  	 end
 
   
@@ -21,12 +20,6 @@ class ValidateWordsController < ApplicationController
 				@found = true
 				break
 			end
-			#if line.eql?("world")
-			#	puts "Found"
-			#end
-			#puts line
-			#puts line.length
-			#puts line.size
 		end
 		return {"result"=>@found}
   	end
