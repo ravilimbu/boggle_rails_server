@@ -1,0 +1,1140 @@
+Started GET "/" for ::1 at 2020-03-04 03:21:19 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (6.7ms)
+Completed 200 OK in 16ms (Views: 14.1ms)
+
+
+Started GET "/" for ::1 at 2020-03-04 03:37:23 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (6.5ms)
+Completed 200 OK in 60ms (Views: 32.8ms)
+
+
+Started GET "/" for ::1 at 2020-03-04 03:43:44 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (4.0ms)
+Completed 200 OK in 8ms (Views: 6.5ms)
+
+
+Started GET "/" for ::1 at 2020-03-04 03:43:45 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (4.7ms)
+Completed 200 OK in 11ms (Views: 9.1ms)
+
+
+Started GET "/" for ::1 at 2020-03-04 03:48:57 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (5.0ms)
+Completed 200 OK in 9ms (Views: 6.8ms)
+
+
+Started GET "/" for ::1 at 2020-03-04 03:53:44 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (4.2ms)
+Completed 200 OK in 7ms (Views: 5.6ms)
+
+
+Started GET "/" for ::1 at 2020-03-04 03:56:57 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (10.0ms)
+Completed 200 OK in 13ms (Views: 11.6ms)
+
+
+Started GET "/" for ::1 at 2020-03-04 03:56:58 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (6.6ms)
+Completed 200 OK in 11ms (Views: 9.1ms)
+
+
+Started GET "/" for ::1 at 2020-03-04 03:59:06 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (6.3ms)
+Completed 200 OK in 16ms (Views: 15.0ms)
+
+
+Started GET "/favicon.ico" for ::1 at 2020-03-04 03:59:06 +0545
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for ::1 at 2020-03-04 04:57:23 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (4.8ms)
+Completed 200 OK in 10ms (Views: 6.6ms)
+
+
+Started GET "/" for ::1 at 2020-03-04 05:08:20 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (7.1ms)
+Completed 200 OK in 16ms (Views: 14.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2020-03-04 05:14:05 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (5.1ms)
+Completed 200 OK in 10ms (Views: 8.3ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2020-03-04 05:14:05 +0545
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2020-03-04 05:32:11 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (6.4ms)
+Completed 200 OK in 16ms (Views: 14.8ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:37:44 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (6.5ms)
+Completed 200 OK in 16ms (Views: 14.8ms)
+
+
+Started GET "/favicon.ico" for 10.10.10.100 at 2020-03-04 05:37:44 +0545
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:37:49 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (5.8ms)
+Completed 200 OK in 10ms (Views: 8.0ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:37:52 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (17.1ms)
+Completed 200 OK in 21ms (Views: 19.2ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:42:50 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (6.8ms)
+Completed 200 OK in 10ms (Views: 8.8ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:42:51 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (3.9ms)
+Completed 200 OK in 7ms (Views: 5.8ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:42:51 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (5.8ms)
+Completed 200 OK in 9ms (Views: 7.8ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:42:51 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (4.5ms)
+Completed 200 OK in 8ms (Views: 6.4ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:42:51 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (4.3ms)
+Completed 200 OK in 8ms (Views: 6.2ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:03 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (4.6ms)
+Completed 200 OK in 8ms (Views: 6.6ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:04 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (5.0ms)
+Completed 200 OK in 8ms (Views: 7.0ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:04 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (4.7ms)
+Completed 200 OK in 8ms (Views: 6.8ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:05 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (6.6ms)
+Completed 200 OK in 10ms (Views: 8.7ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:05 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (4.2ms)
+Completed 200 OK in 8ms (Views: 6.1ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:05 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (6.6ms)
+Completed 200 OK in 12ms (Views: 10.5ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:06 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (6.2ms)
+Completed 200 OK in 10ms (Views: 8.1ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:06 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (4.3ms)
+Completed 200 OK in 10ms (Views: 8.1ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:08 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (8.1ms)
+Completed 200 OK in 13ms (Views: 10.1ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:08 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (4.0ms)
+Completed 200 OK in 7ms (Views: 6.5ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:08 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (4.6ms)
+Completed 200 OK in 8ms (Views: 6.0ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:09 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (5.0ms)
+Completed 200 OK in 10ms (Views: 6.4ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:09 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (5.0ms)
+Completed 200 OK in 8ms (Views: 6.8ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:09 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (4.0ms)
+Completed 200 OK in 9ms (Views: 7.1ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:09 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (5.7ms)
+Completed 200 OK in 12ms (Views: 8.9ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:09 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (4.9ms)
+Completed 200 OK in 8ms (Views: 6.5ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:10 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (5.0ms)
+Completed 200 OK in 7ms (Views: 6.3ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:10 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (6.6ms)
+Completed 200 OK in 11ms (Views: 9.4ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:10 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (3.6ms)
+Completed 200 OK in 15ms (Views: 14.5ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:10 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (5.6ms)
+Completed 200 OK in 9ms (Views: 7.5ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:10 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (3.8ms)
+Completed 200 OK in 7ms (Views: 5.7ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:10 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (5.2ms)
+Completed 200 OK in 9ms (Views: 7.1ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:11 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (5.8ms)
+Completed 200 OK in 9ms (Views: 7.7ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:11 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (5.9ms)
+Completed 200 OK in 9ms (Views: 8.0ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:11 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (5.7ms)
+Completed 200 OK in 9ms (Views: 7.6ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:11 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (4.0ms)
+Completed 200 OK in 7ms (Views: 5.8ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:12 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (4.0ms)
+Completed 200 OK in 7ms (Views: 5.9ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 05:43:14 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (4.3ms)
+Completed 200 OK in 7ms (Views: 5.8ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 06:21:01 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (4.3ms)
+Completed 200 OK in 8ms (Views: 6.2ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 06:21:02 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (5.0ms)
+Completed 200 OK in 8ms (Views: 7.0ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 06:21:02 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (6.4ms)
+Completed 200 OK in 10ms (Views: 8.4ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 06:21:02 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (6.0ms)
+Completed 200 OK in 10ms (Views: 8.0ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 06:21:02 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (6.0ms)
+Completed 200 OK in 9ms (Views: 7.9ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 06:21:02 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (4.2ms)
+Completed 200 OK in 8ms (Views: 6.2ms)
+
+
+Started GET "/" for 10.10.10.100 at 2020-03-04 13:49:36 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (6.4ms)
+Completed 200 OK in 58ms (Views: 31.1ms)
+
+
+Started GET "/favicon.ico" for 10.10.10.100 at 2020-03-04 13:49:37 +0545
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for 10.10.10.100 at 2020-03-04 14:39:11 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (5.4ms)
+Completed 200 OK in 9ms (Views: 7.5ms)
+
+
+Started GET "/favicon.ico" for 10.10.10.100 at 2020-03-04 14:39:11 +0545
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for 10.10.10.100 at 2020-03-08 11:46:28 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (6.3ms)
+Completed 200 OK in 45ms (Views: 32.1ms)
+
+
+Started GET "/favicon.ico" for 10.10.10.100 at 2020-03-08 11:46:28 +0545
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for 10.10.10.100 at 2020-03-08 11:48:20 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (5.8ms)
+Completed 200 OK in 12ms (Views: 8.8ms)
+
+
+Started GET "/favicon.ico" for 10.10.10.100 at 2020-03-08 11:48:20 +0545
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for 10.10.10.100 at 2020-03-08 12:12:44 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (6.4ms)
+Completed 200 OK in 17ms (Views: 14.7ms)
+
+
+Started GET "/application" for 10.10.10.100 at 2020-03-08 12:12:49 +0545
+  
+ActionController::RoutingError (No route matches [GET] "/application"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/application/validate" for 10.10.10.100 at 2020-03-08 12:12:59 +0545
+  
+ActionController::RoutingError (No route matches [GET] "/application/validate"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/application/validate" for 10.10.10.100 at 2020-03-08 12:16:06 +0545
+  
+ActionController::RoutingError (No route matches [GET] "/application/validate"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/validate" for 10.10.10.100 at 2020-03-08 12:16:11 +0545
+  
+ActionController::RoutingError (No route matches [GET] "/validate"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/age" for 10.10.10.100 at 2020-03-08 12:19:04 +0545
+  
+ActionController::RoutingError (No route matches [POST] "/age"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/validate" for 10.10.10.100 at 2020-03-08 12:41:34 +0545
+  
+SyntaxError (/home/ravi/Documents/rails/boggle_server/app/controllers/validate_words_controller.rb:10: syntax error, unexpected ':', expecting =>
+      test : "hellow"
+           ^
+/home/ravi/Documents/rails/boggle_server/app/controllers/validate_words_controller.rb:11: syntax error, unexpected '}', expecting end
+    }
+    ^):
+  
+app/controllers/validate_words_controller.rb:10: syntax error, unexpected ':', expecting =>
+app/controllers/validate_words_controller.rb:11: syntax error, unexpected '}', expecting end
+Started GET "/validate" for 10.10.10.100 at 2020-03-08 12:42:27 +0545
+  
+SyntaxError (/home/ravi/Documents/rails/boggle_server/app/controllers/validate_words_controller.rb:10: syntax error, unexpected ':', expecting =>
+      "test" : "hellow"
+             ^
+/home/ravi/Documents/rails/boggle_server/app/controllers/validate_words_controller.rb:11: syntax error, unexpected '}', expecting end
+    }
+    ^):
+  
+app/controllers/validate_words_controller.rb:10: syntax error, unexpected ':', expecting =>
+app/controllers/validate_words_controller.rb:11: syntax error, unexpected '}', expecting end
+Started GET "/" for 10.10.10.100 at 2020-03-08 12:44:27 +0545
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.3/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (5.2ms)
+Completed 200 OK in 17ms (Views: 14.9ms)
+
+
+Started GET "/validate" for 10.10.10.100 at 2020-03-08 12:44:29 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 500 Internal Server Error in 1ms
+
+
+  
+ArgumentError (wrong number of arguments (given 0, expected 2..3)):
+  
+app/controllers/validate_words_controller.rb:10:in `test'
+app/controllers/validate_words_controller.rb:10:in `resp_body'
+app/controllers/validate_words_controller.rb:3:in `validate'
+Started GET "/validate" for 10.10.10.100 at 2020-03-08 12:47:36 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 1ms (Views: 0.3ms)
+
+
+Started GET "/validate" for 10.10.10.100 at 2020-03-08 13:27:33 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 1ms (Views: 0.4ms)
+
+
+Started GET "/validate" for 10.10.10.100 at 2020-03-08 21:29:22 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 2ms (Views: 0.4ms)
+
+
+Started GET "/validate" for 10.10.10.100 at 2020-03-08 21:30:43 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 6280ms (Views: 0.5ms)
+
+
+Started GET "/validate" for 10.10.10.100 at 2020-03-08 21:33:01 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 261ms (Views: 0.4ms)
+
+
+Started GET "/validate" for 10.10.10.100 at 2020-03-08 21:33:07 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 204ms (Views: 0.3ms)
+
+
+Started GET "/validate" for 10.10.10.100 at 2020-03-08 21:36:39 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 267ms (Views: 0.5ms)
+
+
+Started GET "/validate" for 10.10.10.100 at 2020-03-08 21:37:48 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 6211ms (Views: 0.4ms)
+
+
+Started GET "/validate" for 10.10.10.100 at 2020-03-08 21:42:41 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 16005ms (Views: 0.5ms)
+
+
+Started GET "/validate" for 10.10.10.100 at 2020-03-08 21:44:35 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 200ms (Views: 0.5ms)
+
+
+Started GET "/validate" for 10.10.10.100 at 2020-03-08 23:12:28 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 342ms (Views: 0.4ms)
+
+
+Started GET "/validate" for 10.10.10.100 at 2020-03-09 02:22:57 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 286ms (Views: 0.3ms)
+
+
+Started GET "/validate" for 10.10.10.100 at 2020-03-09 02:27:02 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 500 Internal Server Error in 579ms
+
+
+  
+NoMethodError (undefined method `content_type' for {"test"=>"HellowWorld!!!"}:Hash):
+  
+app/controllers/validate_words_controller.rb:5:in `validate'
+Started GET "/validate/123" for 10.10.10.100 at 2020-03-09 02:27:08 +0545
+  
+ActionController::RoutingError (No route matches [GET] "/validate/123"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/validate/?id=123" for 10.10.10.100 at 2020-03-09 02:27:17 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"id"=>"123"}
+Completed 500 Internal Server Error in 523ms
+
+
+  
+NoMethodError (undefined method `content_type' for {"test"=>"HellowWorld!!!"}:Hash):
+  
+app/controllers/validate_words_controller.rb:5:in `validate'
+Started GET "/validate?id=123" for 10.10.10.100 at 2020-03-09 02:27:24 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"id"=>"123"}
+Completed 500 Internal Server Error in 526ms
+
+
+  
+NoMethodError (undefined method `content_type' for {"test"=>"HellowWorld!!!"}:Hash):
+  
+app/controllers/validate_words_controller.rb:5:in `validate'
+Started GET "/validate" for 10.10.10.100 at 2020-03-09 02:28:40 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 317ms (Views: 0.4ms)
+
+
+Started GET "/validate?id=123" for 10.10.10.100 at 2020-03-09 02:28:46 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"id"=>"123"}
+Completed 200 OK in 259ms (Views: 0.3ms)
+
+
+Started GET "/validate?id=65as4df654" for 10.10.10.100 at 2020-03-09 02:29:03 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"id"=>"65as4df654"}
+Completed 200 OK in 263ms (Views: 0.3ms)
+
+
+Started GET "/validate?id=65as4df654" for 10.10.10.100 at 2020-03-09 03:55:15 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"id"=>"65as4df654"}
+Completed 500 Internal Server Error in 1ms
+
+
+  
+TypeError (no implicit conversion of nil into String):
+  
+app/controllers/validate_words_controller.rb:5:in `validate'
+Started GET "/validate?id=65as4df654" for 10.10.10.100 at 2020-03-09 03:57:14 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"id"=>"65as4df654"}
+Completed 500 Internal Server Error in 1ms
+
+
+  
+TypeError (no implicit conversion of nil into String):
+  
+app/controllers/validate_words_controller.rb:4:in `validate'
+Started GET "/validate?id=65as4df654" for 10.10.10.100 at 2020-03-09 03:59:19 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"id"=>"65as4df654"}
+Completed 200 OK in 322ms (Views: 0.4ms)
+
+
+Started GET "/validate?word=65as4df654" for 10.10.10.100 at 2020-03-09 04:01:51 +0545
+  
+SyntaxError (/home/ravi/Documents/rails/boggle_server/app/controllers/validate_words_controller.rb:6: syntax error, unexpected tIDENTIFIER, expecting do or '{' or '('
+		render json: valid_word word
+		                        ^~~~):
+  
+app/controllers/validate_words_controller.rb:6: syntax error, unexpected tIDENTIFIER, expecting do or '{' or '('
+Started GET "/validate?word=65as4df654" for 10.10.10.100 at 2020-03-09 04:05:14 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"65as4df654"}
+Completed 200 OK in 350ms (Views: 0.4ms)
+
+
+Started GET "/validate?word=65as4df654" for 10.10.10.100 at 2020-03-09 04:07:12 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"65as4df654"}
+Completed 200 OK in 1ms (Views: 0.4ms)
+
+
+Started GET "/validate?word=fly" for 10.10.10.100 at 2020-03-09 04:07:16 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"fly"}
+Completed 200 OK in 1ms (Views: 0.4ms)
+
+
+Started GET "/validate?word=world" for 10.10.10.100 at 2020-03-09 04:07:22 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"world"}
+Completed 200 OK in 2ms (Views: 2.0ms)
+
+
+Started GET "/validate?word=world" for 10.10.10.100 at 2020-03-09 04:08:22 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"world"}
+Completed 200 OK in 1ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=world" for 10.10.10.100 at 2020-03-09 04:08:24 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"world"}
+Completed 200 OK in 1ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=world" for 10.10.10.100 at 2020-03-09 04:08:25 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"world"}
+Completed 200 OK in 2ms (Views: 1.3ms)
+
+
+Started GET "/validate?word=world" for 10.10.10.100 at 2020-03-09 04:08:26 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"world"}
+Completed 200 OK in 0ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=world" for 10.10.10.100 at 2020-03-09 04:08:26 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"world"}
+Completed 200 OK in 1ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=world" for 10.10.10.100 at 2020-03-09 04:08:27 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"world"}
+Completed 200 OK in 1ms (Views: 0.4ms)
+
+
+Started GET "/validate?word=world" for 10.10.10.100 at 2020-03-09 04:10:39 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"world"}
+Completed 200 OK in 2ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=world" for 10.10.10.100 at 2020-03-09 04:10:39 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"world"}
+Completed 200 OK in 1ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=world" for 10.10.10.100 at 2020-03-09 04:10:40 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"world"}
+Completed 200 OK in 3ms (Views: 2.2ms)
+
+
+Started GET "/validate?word=world" for 10.10.10.100 at 2020-03-09 04:11:24 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"world"}
+Completed 200 OK in 1ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=world" for 10.10.10.100 at 2020-03-09 04:11:28 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"world"}
+Completed 200 OK in 1ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=world" for 10.10.10.100 at 2020-03-09 04:14:37 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"world"}
+Completed 200 OK in 332ms (Views: 0.4ms)
+
+
+Started GET "/validate?word=world" for 10.10.10.100 at 2020-03-09 04:15:22 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"world"}
+Completed 200 OK in 6432ms (Views: 0.4ms)
+
+
+Started GET "/validate?word=world" for 10.10.10.100 at 2020-03-09 04:16:31 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"world"}
+Completed 200 OK in 322ms (Views: 0.4ms)
+
+
+Started GET "/validate?word=world" for 10.10.10.100 at 2020-03-09 04:16:33 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"world"}
+Completed 200 OK in 268ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=world" for 10.10.10.100 at 2020-03-09 04:16:35 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"world"}
+Completed 200 OK in 272ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=world" for 10.10.10.100 at 2020-03-09 04:16:36 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"world"}
+Completed 200 OK in 269ms (Views: 0.4ms)
+
+
+Started GET "/validate?word=world" for 10.10.10.100 at 2020-03-09 04:17:13 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"world"}
+Completed 200 OK in 270ms (Views: 0.4ms)
+
+
+Started GET "/validate?word=world" for 10.10.10.100 at 2020-03-09 04:17:17 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"world"}
+Completed 200 OK in 214ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=worldasd" for 10.10.10.100 at 2020-03-09 04:17:21 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"worldasd"}
+Completed 200 OK in 217ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=aaa" for 10.10.10.100 at 2020-03-09 04:17:25 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"aaa"}
+Completed 200 OK in 1ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=wobble" for 10.10.10.100 at 2020-03-09 04:17:32 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"wobble"}
+Completed 200 OK in 216ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=wobbler" for 10.10.10.100 at 2020-03-09 04:17:36 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"wobbler"}
+Completed 200 OK in 214ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=wobblertnt" for 10.10.10.100 at 2020-03-09 04:17:40 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"wobblertnt"}
+Completed 200 OK in 217ms (Views: 0.3ms)
+
+

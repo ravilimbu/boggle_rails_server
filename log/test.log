@@ -1,0 +1,195 @@
+-----------------------------------------------------
+ValidateWordsControllerTest: test_should_get_validate
+-----------------------------------------------------
+Started GET "/validate_words/validate" for 127.0.0.1 at 2020-03-08 12:05:36 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 204 No Content in 0ms
+-----------------------------------------------------
+ValidateWordsControllerTest: test_should_get_validate
+-----------------------------------------------------
+-----------------------------------------------------
+ValidateWordsControllerTest: test_should_get_validate
+-----------------------------------------------------
+-----------------------------------------------------
+ValidateWordsControllerTest: test_should_get_validate
+-----------------------------------------------------
+-----------------------------------------------------
+ValidateWordsControllerTest: test_should_get_validate
+-----------------------------------------------------
+-----------------------------------------------------
+ValidateWordsControllerTest: test_should_get_validate
+-----------------------------------------------------
+-----------------------------------------------------
+ValidateWordsControllerTest: test_should_get_validate
+-----------------------------------------------------
+-----------------------------------------------------
+ValidateWordsControllerTest: test_should_get_validate
+-----------------------------------------------------
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-08 21:06:34 +0545
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-08 21:07:48 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 1ms (Views: 0.5ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-08 21:08:51 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 1ms (Views: 0.5ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-08 21:09:35 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 500 Internal Server Error in 1ms
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-08 21:11:38 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 500 Internal Server Error in 1ms
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-08 21:11:55 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 3ms (Views: 0.5ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-08 23:08:37 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 500 Internal Server Error in 6ms
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-08 23:12:15 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 248ms (Views: 0.8ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-09 02:24:25 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 500 Internal Server Error in 2ms
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-09 02:26:05 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 252ms (Views: 1.2ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-09 02:28:31 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 251ms (Views: 0.7ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-09 02:31:31 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 500 Internal Server Error in 2ms
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-09 03:51:16 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 500 Internal Server Error in 1ms
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-09 03:51:26 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 500 Internal Server Error in 1ms
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-09 03:53:10 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 500 Internal Server Error in 1ms
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-09 03:53:45 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 500 Internal Server Error in 2ms
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-09 04:01:32 +0545
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-09 04:03:20 +0545
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-09 04:03:58 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 254ms (Views: 1.5ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-09 04:04:44 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 249ms (Views: 0.9ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-09 04:05:03 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 257ms (Views: 1.7ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-09 04:07:04 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 1ms (Views: 0.5ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-09 04:08:16 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 1ms (Views: 0.5ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-09 04:13:19 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 500 Internal Server Error in 256ms
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-09 04:14:25 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 256ms (Views: 1.6ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-09 04:16:20 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 253ms (Views: 1.4ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-09 04:17:05 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 204ms (Views: 0.8ms)
