@@ -193,3 +193,9 @@ ValidateWordsControllerTest: test_should_have_file_access
 Started GET "/validate" for 127.0.0.1 at 2020-03-09 04:17:05 +0545
 Processing by ValidateWordsController#validate as HTML
 Completed 200 OK in 204ms (Views: 0.8ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate" for 127.0.0.1 at 2020-03-09 13:13:59 +0545
+Processing by ValidateWordsController#validate as HTML
+Completed 200 OK in 218ms (Views: 1.1ms)

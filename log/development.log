@@ -1138,3 +1138,531 @@ Processing by ValidateWordsController#validate as HTML
 Completed 200 OK in 217ms (Views: 0.3ms)
 
 
+Started GET "/validate?word=wobblertnt" for 10.10.10.100 at 2020-03-09 04:27:53 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"wobblertnt"}
+Completed 200 OK in 274ms (Views: 0.4ms)
+
+
+Started GET "/validate?word=dynamite" for 10.10.10.100 at 2020-03-09 04:27:59 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"dynamite"}
+Completed 200 OK in 52ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=wobblertnt" for 10.10.10.100 at 2020-03-09 04:29:13 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"wobblertnt"}
+Completed 200 OK in 219ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=dynamite" for 10.10.10.100 at 2020-03-09 04:30:58 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"dynamite"}
+Completed 200 OK in 55ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=ravi" for 10.10.10.100 at 2020-03-09 04:31:02 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"ravi"}
+Completed 200 OK in 149ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=ravi" for 10.10.10.100 at 2020-03-09 04:31:07 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"ravi"}
+Completed 200 OK in 151ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=ravin" for 10.10.10.100 at 2020-03-09 04:31:42 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"ravin"}
+Completed 200 OK in 151ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=ravi" for 10.10.10.100 at 2020-03-09 04:34:13 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"ravi"}
+Completed 200 OK in 156ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=ravin" for 10.10.10.100 at 2020-03-09 04:49:50 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"ravin"}
+Completed 200 OK in 159ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=aaa" for 10.10.10.100 at 2020-03-09 04:49:53 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"aaa"}
+Completed 200 OK in 1ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=a" for 10.10.10.100 at 2020-03-09 04:49:57 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"a"}
+Completed 200 OK in 246ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=aaa" for 10.10.10.100 at 2020-03-09 04:54:13 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"aaa"}
+Completed 200 OK in 1ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 05:07:54 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 188ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:14:58 +0545
+Processing by ValidateWordsController#validate as */*
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 243ms (Views: 0.4ms)
+
+
+Started OPTIONS "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:15:56 +0545
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/validate"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/validate?word=ravin" for 10.10.10.100 at 2020-03-09 13:16:23 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"ravin"}
+Completed 200 OK in 152ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=ravin" for 10.10.10.100 at 2020-03-09 13:16:42 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"ravin"}
+Completed 200 OK in 152ms (Views: 0.3ms)
+
+
+Started OPTIONS "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:19:07 +0545
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/validate"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started OPTIONS "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:19:21 +0545
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/validate"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:19:47 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 181ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=ravin" for 10.10.10.100 at 2020-03-09 13:19:54 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"ravin"}
+Completed 200 OK in 153ms (Views: 0.3ms)
+
+
+Started OPTIONS "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:23:57 +0545
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/validate"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started OPTIONS "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:25:34 +0545
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/validate"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started OPTIONS "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:25:39 +0545
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/validate"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:28:20 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 186ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:28:44 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 185ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:29:22 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 225ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=ravin" for 10.10.10.100 at 2020-03-09 13:30:09 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"ravin"}
+Completed 200 OK in 151ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:30:12 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 182ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:30:24 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 187ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:34:48 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 187ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:35:18 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 186ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:35:27 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 185ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:36:10 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 221ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:36:17 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 186ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:37:49 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 184ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:38:13 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 187ms (Views: 0.3ms)
+
+
+Started OPTIONS "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:38:19 +0545
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/validate"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:38:37 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 185ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:38:52 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 184ms (Views: 0.2ms)
+
+
+Started OPTIONS "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:41:26 +0545
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/validate"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started OPTIONS "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:41:33 +0545
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/validate"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started OPTIONS "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:42:15 +0545
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/validate"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started OPTIONS "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:42:30 +0545
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/validate"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started OPTIONS "/validate?word=test" for 10.10.10.100 at 2020-03-09 13:42:39 +0545
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/validate"):
+  
+actionpack (5.0.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.7.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.7.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.7.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.2.2) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.7.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.2.2) lib/rack/sendfile.rb:110:in `call'
+railties (5.0.7.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.4) lib/puma/configuration.rb:227:in `call'
+puma (3.12.4) lib/puma/server.rb:675:in `handle_request'
+puma (3.12.4) lib/puma/server.rb:476:in `process_client'
+puma (3.12.4) lib/puma/server.rb:334:in `block in run'
+puma (3.12.4) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 14:15:17 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 264ms (Views: 0.4ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 14:15:24 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 186ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 14:29:30 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 185ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 14:29:35 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 190ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 14:31:15 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 186ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 14:31:25 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 183ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 14:42:18 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 189ms (Views: 0.3ms)
+
+
