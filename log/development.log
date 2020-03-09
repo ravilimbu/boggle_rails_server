@@ -1666,3 +1666,2127 @@ Processing by ValidateWordsController#validate as JSON
 Completed 200 OK in 189ms (Views: 0.3ms)
 
 
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 14:45:45 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 187ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 17:47:46 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 286ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 17:48:09 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 204ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 17:48:12 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 210ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 18:22:43 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 210ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 18:22:54 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 204ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 18:24:44 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 206ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 18:24:45 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 204ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 18:52:56 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 209ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 18:53:08 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 242ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 18:53:20 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 202ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 18:53:28 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 205ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 19:28:48 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 207ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 19:31:21 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 204ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 19:33:40 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 203ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 19:34:49 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 238ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 19:39:45 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 209ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 19:41:11 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 206ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 19:43:59 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 206ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 19:45:54 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 210ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 20:18:47 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 207ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 20:19:49 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 237ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 20:21:41 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 205ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 20:27:02 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 205ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 20:27:06 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 205ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 20:28:14 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 207ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 20:31:06 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 206ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 20:33:31 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 239ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 20:36:18 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 208ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 20:36:30 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 205ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 20:37:03 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 206ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 20:37:07 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 203ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 20:37:10 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 206ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 20:38:00 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 239ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 20:38:04 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 205ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 20:41:11 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 206ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 20:43:11 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 214ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 21:32:45 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 211ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=test" for 10.10.10.100 at 2020-03-09 21:40:01 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 210ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=undefined" for 10.10.10.100 at 2020-03-09 21:46:44 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"undefined"}
+Completed 200 OK in 250ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=undefined" for 10.10.10.100 at 2020-03-09 22:20:24 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"undefined"}
+Completed 200 OK in 215ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=undefined" for 10.10.10.100 at 2020-03-09 22:20:35 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"undefined"}
+Completed 200 OK in 218ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=undefined" for 10.10.10.100 at 2020-03-09 22:20:48 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"undefined"}
+Completed 200 OK in 218ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=undefined" for 10.10.10.100 at 2020-03-09 22:20:53 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"undefined"}
+Completed 200 OK in 215ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=undefined" for 10.10.10.100 at 2020-03-09 22:20:56 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"undefined"}
+Completed 200 OK in 219ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=undefined" for 10.10.10.100 at 2020-03-09 22:20:59 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"undefined"}
+Completed 200 OK in 248ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=undefined" for 10.10.10.100 at 2020-03-09 22:21:16 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"undefined"}
+Completed 200 OK in 216ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=undefined" for 10.10.10.100 at 2020-03-09 22:21:20 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"undefined"}
+Completed 200 OK in 215ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=quel" for 10.10.10.100 at 2020-03-09 22:26:54 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"quel"}
+Completed 200 OK in 236ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tell" for 10.10.10.100 at 2020-03-09 22:26:59 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tell"}
+Completed 200 OK in 206ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=queel" for 10.10.10.100 at 2020-03-09 22:27:15 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"queel"}
+Completed 200 OK in 237ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=queal" for 10.10.10.100 at 2020-03-09 22:27:20 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"queal"}
+Completed 200 OK in 199ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=hit" for 10.10.10.100 at 2020-03-09 22:27:30 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"hit"}
+Completed 200 OK in 94ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=veel" for 10.10.10.100 at 2020-03-09 22:27:36 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"veel"}
+Completed 200 OK in 237ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-09 22:27:40 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 232ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-09 23:04:15 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 230ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=velal" for 10.10.10.100 at 2020-03-09 23:04:24 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"velal"}
+Completed 200 OK in 264ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=velale" for 10.10.10.100 at 2020-03-09 23:04:29 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"velale"}
+Completed 200 OK in 238ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=tek" for 10.10.10.100 at 2020-03-09 23:04:36 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tek"}
+Completed 200 OK in 240ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=itk" for 10.10.10.100 at 2020-03-09 23:04:47 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"itk"}
+Completed 200 OK in 237ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-09 23:05:26 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 228ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-09 23:05:44 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 263ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=queal" for 10.10.10.100 at 2020-03-09 23:05:49 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"queal"}
+Completed 200 OK in 167ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-09 23:08:36 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 232ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=" for 10.10.10.100 at 2020-03-09 23:08:50 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>""}
+Completed 200 OK in 241ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-09 23:09:45 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 230ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-09 23:10:33 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 230ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-09 23:11:20 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 266ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-09 23:12:49 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 232ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-09 23:12:58 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 229ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=queal" for 10.10.10.100 at 2020-03-09 23:13:17 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"queal"}
+Completed 200 OK in 170ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tell" for 10.10.10.100 at 2020-03-09 23:38:31 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tell"}
+Completed 200 OK in 217ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tell" for 10.10.10.100 at 2020-03-09 23:38:39 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tell"}
+Completed 200 OK in 207ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-09 23:40:04 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 267ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-09 23:49:48 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 230ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-09 23:51:19 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 232ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-09 23:52:22 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 235ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=take" for 10.10.10.100 at 2020-03-09 23:52:28 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"take"}
+Completed 200 OK in 202ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-09 23:53:37 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 264ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=queal" for 10.10.10.100 at 2020-03-09 23:53:42 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"queal"}
+Completed 200 OK in 166ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-10 00:00:14 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 233ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=tell" for 10.10.10.100 at 2020-03-10 00:00:19 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tell"}
+Completed 200 OK in 205ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=queal" for 10.10.10.100 at 2020-03-10 00:00:25 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"queal"}
+Completed 200 OK in 170ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-10 00:04:43 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 230ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-10 00:05:00 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 263ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=queal" for 10.10.10.100 at 2020-03-10 00:05:06 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"queal"}
+Completed 200 OK in 166ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-10 00:06:00 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 230ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-10 00:06:16 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 231ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-10 00:07:04 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 232ms (Views: 3.0ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-10 00:07:57 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 231ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-10 00:08:43 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 266ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=queal" for 10.10.10.100 at 2020-03-10 00:08:47 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"queal"}
+Completed 200 OK in 162ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-10 00:15:46 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 229ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=ttk" for 10.10.10.100 at 2020-03-10 00:15:50 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"ttk"}
+Completed 200 OK in 235ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=dnk" for 10.10.10.100 at 2020-03-10 00:15:56 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"dnk"}
+Completed 200 OK in 234ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tell" for 10.10.10.100 at 2020-03-10 00:16:00 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tell"}
+Completed 200 OK in 205ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=queal" for 10.10.10.100 at 2020-03-10 00:16:10 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"queal"}
+Completed 200 OK in 202ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=hit" for 10.10.10.100 at 2020-03-10 00:16:16 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"hit"}
+Completed 200 OK in 91ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=dit" for 10.10.10.100 at 2020-03-10 00:16:19 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"dit"}
+Completed 200 OK in 63ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tek" for 10.10.10.100 at 2020-03-10 00:16:24 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tek"}
+Completed 200 OK in 242ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=veet" for 10.10.10.100 at 2020-03-10 00:16:30 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"veet"}
+Completed 200 OK in 240ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=hitt" for 10.10.10.100 at 2020-03-10 00:16:39 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"hitt"}
+Completed 200 OK in 238ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=tel" for 10.10.10.100 at 2020-03-10 00:17:01 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tel"}
+Completed 200 OK in 238ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=eel" for 10.10.10.100 at 2020-03-10 00:17:05 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"eel"}
+Completed 200 OK in 63ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=vel" for 10.10.10.100 at 2020-03-10 00:17:08 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vel"}
+Completed 200 OK in 230ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=que" for 10.10.10.100 at 2020-03-10 00:17:20 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"que"}
+Completed 200 OK in 166ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=quel" for 10.10.10.100 at 2020-03-10 00:17:24 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"quel"}
+Completed 200 OK in 239ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=let" for 10.10.10.100 at 2020-03-10 00:19:54 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"let"}
+Completed 200 OK in 146ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=queal" for 10.10.10.100 at 2020-03-10 00:19:57 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"queal"}
+Completed 200 OK in 166ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-10 00:20:00 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 226ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tek" for 10.10.10.100 at 2020-03-10 00:20:08 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tek"}
+Completed 200 OK in 237ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=tell" for 10.10.10.100 at 2020-03-10 00:20:11 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tell"}
+Completed 200 OK in 203ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tela" for 10.10.10.100 at 2020-03-10 00:20:13 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tela"}
+Completed 200 OK in 201ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-10 00:21:51 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 266ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-10 00:24:17 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 229ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-10 00:24:31 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 230ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=vella" for 10.10.10.100 at 2020-03-10 00:24:34 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vella"}
+Completed 200 OK in 234ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=queal" for 10.10.10.100 at 2020-03-10 00:24:38 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"queal"}
+Completed 200 OK in 168ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=hit" for 10.10.10.100 at 2020-03-10 00:24:47 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"hit"}
+Completed 200 OK in 130ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=hiit" for 10.10.10.100 at 2020-03-10 00:24:48 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"hiit"}
+Completed 200 OK in 238ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-10 00:28:01 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 229ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=queal" for 10.10.10.100 at 2020-03-10 00:28:04 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"queal"}
+Completed 200 OK in 167ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-10 00:28:47 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 228ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tell" for 10.10.10.100 at 2020-03-10 00:28:59 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tell"}
+Completed 200 OK in 238ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tel" for 10.10.10.100 at 2020-03-10 00:29:04 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tel"}
+Completed 200 OK in 204ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=lal" for 10.10.10.100 at 2020-03-10 00:29:16 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"lal"}
+Completed 200 OK in 237ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=queal" for 10.10.10.100 at 2020-03-10 00:29:22 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"queal"}
+Completed 200 OK in 168ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=eel" for 10.10.10.100 at 2020-03-10 00:29:23 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"eel"}
+Completed 200 OK in 65ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=queel" for 10.10.10.100 at 2020-03-10 00:29:27 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"queel"}
+Completed 200 OK in 274ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=leel" for 10.10.10.100 at 2020-03-10 00:29:30 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"leel"}
+Completed 200 OK in 235ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=hit" for 10.10.10.100 at 2020-03-10 00:29:37 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"hit"}
+Completed 200 OK in 91ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tid" for 10.10.10.100 at 2020-03-10 00:29:42 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tid"}
+Completed 200 OK in 208ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=dit" for 10.10.10.100 at 2020-03-10 00:29:44 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"dit"}
+Completed 200 OK in 62ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=kell" for 10.10.10.100 at 2020-03-10 00:29:49 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"kell"}
+Completed 200 OK in 106ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=kel" for 10.10.10.100 at 2020-03-10 00:29:51 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"kel"}
+Completed 200 OK in 274ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=tea" for 10.10.10.100 at 2020-03-10 00:29:57 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tea"}
+Completed 200 OK in 202ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=teal" for 10.10.10.100 at 2020-03-10 00:30:00 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"teal"}
+Completed 200 OK in 202ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=teel" for 10.10.10.100 at 2020-03-10 00:30:04 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"teel"}
+Completed 200 OK in 203ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=veel" for 10.10.10.100 at 2020-03-10 00:30:11 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"veel"}
+Completed 200 OK in 238ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=vel" for 10.10.10.100 at 2020-03-10 00:30:12 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vel"}
+Completed 200 OK in 263ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=hitt" for 10.10.10.100 at 2020-03-10 00:30:18 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"hitt"}
+Completed 200 OK in 234ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=eell" for 10.10.10.100 at 2020-03-10 00:30:30 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"eell"}
+Completed 200 OK in 235ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=que" for 10.10.10.100 at 2020-03-10 00:30:48 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"que"}
+Completed 200 OK in 168ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-10 00:32:43 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 228ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=leel" for 10.10.10.100 at 2020-03-10 00:32:45 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"leel"}
+Completed 200 OK in 236ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=quelk" for 10.10.10.100 at 2020-03-10 00:33:12 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"quelk"}
+Completed 200 OK in 272ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=vel" for 10.10.10.100 at 2020-03-10 00:33:18 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vel"}
+Completed 200 OK in 232ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=vela" for 10.10.10.100 at 2020-03-10 00:34:32 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vela"}
+Completed 200 OK in 230ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=tip" for 10.10.10.100 at 2020-03-10 00:34:48 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tip"}
+Completed 200 OK in 206ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=sip" for 10.10.10.100 at 2020-03-10 00:36:06 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"sip"}
+Completed 200 OK in 184ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tiptip" for 10.10.10.100 at 2020-03-10 00:36:09 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tiptip"}
+Completed 200 OK in 272ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=toy" for 10.10.10.100 at 2020-03-10 00:36:19 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"toy"}
+Completed 200 OK in 209ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=no" for 10.10.10.100 at 2020-03-10 00:36:22 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"no"}
+Completed 200 OK in 238ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=not" for 10.10.10.100 at 2020-03-10 00:36:33 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"not"}
+Completed 200 OK in 137ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=noty" for 10.10.10.100 at 2020-03-10 00:36:36 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"noty"}
+Completed 200 OK in 237ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tot" for 10.10.10.100 at 2020-03-10 00:36:42 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tot"}
+Completed 200 OK in 246ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=too" for 10.10.10.100 at 2020-03-10 00:36:43 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"too"}
+Completed 200 OK in 210ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=noy" for 10.10.10.100 at 2020-03-10 00:36:46 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"noy"}
+Completed 200 OK in 129ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=rent" for 10.10.10.100 at 2020-03-10 00:37:21 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"rent"}
+Completed 200 OK in 174ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=sit" for 10.10.10.100 at 2020-03-10 00:37:25 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"sit"}
+Completed 200 OK in 190ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=mit" for 10.10.10.100 at 2020-03-10 00:37:29 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"mit"}
+Completed 200 OK in 158ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=rit" for 10.10.10.100 at 2020-03-10 00:37:32 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"rit"}
+Completed 200 OK in 176ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=rite" for 10.10.10.100 at 2020-03-10 00:37:33 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"rite"}
+Completed 200 OK in 173ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=cit" for 10.10.10.100 at 2020-03-10 00:37:35 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"cit"}
+Completed 200 OK in 38ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=git" for 10.10.10.100 at 2020-03-10 00:37:38 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"git"}
+Completed 200 OK in 83ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=lim" for 10.10.10.100 at 2020-03-10 00:37:39 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"lim"}
+Completed 200 OK in 113ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=lit" for 10.10.10.100 at 2020-03-10 00:37:42 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"lit"}
+Completed 200 OK in 147ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=lite" for 10.10.10.100 at 2020-03-10 00:37:43 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"lite"}
+Completed 200 OK in 113ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=nit" for 10.10.10.100 at 2020-03-10 00:37:47 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"nit"}
+Completed 200 OK in 132ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=gim" for 10.10.10.100 at 2020-03-10 00:37:49 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"gim"}
+Completed 200 OK in 80ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=set" for 10.10.10.100 at 2020-03-10 00:37:53 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"set"}
+Completed 200 OK in 183ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=sir" for 10.10.10.100 at 2020-03-10 00:37:58 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"sir"}
+Completed 200 OK in 222ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=litt" for 10.10.10.100 at 2020-03-10 00:38:00 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"litt"}
+Completed 200 OK in 235ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=ren" for 10.10.10.100 at 2020-03-10 00:38:12 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"ren"}
+Completed 200 OK in 173ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=sent" for 10.10.10.100 at 2020-03-10 00:38:17 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"sent"}
+Completed 200 OK in 182ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=sen" for 10.10.10.100 at 2020-03-10 00:38:18 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"sen"}
+Completed 200 OK in 185ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=sitt" for 10.10.10.100 at 2020-03-10 00:38:25 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"sitt"}
+Completed 200 OK in 274ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=gili" for 10.10.10.100 at 2020-03-10 00:38:35 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"gili"}
+Completed 200 OK in 236ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=gil" for 10.10.10.100 at 2020-03-10 00:38:36 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"gil"}
+Completed 200 OK in 80ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=mil" for 10.10.10.100 at 2020-03-10 00:38:40 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"mil"}
+Completed 200 OK in 122ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=mili" for 10.10.10.100 at 2020-03-10 00:38:42 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"mili"}
+Completed 200 OK in 235ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=net" for 10.10.10.100 at 2020-03-10 00:38:49 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"net"}
+Completed 200 OK in 165ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=i" for 10.10.10.100 at 2020-03-10 00:39:10 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"i"}
+Completed 200 OK in 241ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=ri" for 10.10.10.100 at 2020-03-10 00:39:16 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"ri"}
+Completed 200 OK in 233ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=jeet" for 10.10.10.100 at 2020-03-10 00:50:49 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"jeet"}
+Completed 200 OK in 237ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=asrm" for 10.10.10.100 at 2020-03-10 00:51:23 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"asrm"}
+Completed 200 OK in 238ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=" for 10.10.10.100 at 2020-03-10 00:51:53 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>""}
+Completed 200 OK in 270ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=eit" for 10.10.10.100 at 2020-03-10 00:53:17 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"eit"}
+Completed 200 OK in 239ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tie" for 10.10.10.100 at 2020-03-10 00:53:21 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tie"}
+Completed 200 OK in 206ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=lit" for 10.10.10.100 at 2020-03-10 00:53:22 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"lit"}
+Completed 200 OK in 116ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=tan" for 10.10.10.100 at 2020-03-10 00:53:26 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tan"}
+Completed 200 OK in 198ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=nat" for 10.10.10.100 at 2020-03-10 00:53:27 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"nat"}
+Completed 200 OK in 130ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=wat" for 10.10.10.100 at 2020-03-10 00:53:34 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"wat"}
+Completed 200 OK in 268ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=teaw" for 10.10.10.100 at 2020-03-10 00:53:40 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"teaw"}
+Completed 200 OK in 233ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=wate" for 10.10.10.100 at 2020-03-10 00:53:46 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"wate"}
+Completed 200 OK in 233ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=quait" for 10.10.10.100 at 2020-03-10 00:53:54 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"quait"}
+Completed 200 OK in 240ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=quit" for 10.10.10.100 at 2020-03-10 00:54:01 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"quit"}
+Completed 200 OK in 167ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=nut" for 10.10.10.100 at 2020-03-10 00:54:05 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"nut"}
+Completed 200 OK in 171ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=eon" for 10.10.10.100 at 2020-03-10 00:54:09 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"eon"}
+Completed 200 OK in 67ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=noa" for 10.10.10.100 at 2020-03-10 00:54:12 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"noa"}
+Completed 200 OK in 130ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=wit" for 10.10.10.100 at 2020-03-10 00:54:18 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"wit"}
+Completed 200 OK in 238ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=quil" for 10.10.10.100 at 2020-03-10 00:54:25 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"quil"}
+Completed 200 OK in 239ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=aeo" for 10.10.10.100 at 2020-03-10 00:54:43 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"aeo"}
+Completed 200 OK in 272ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=nout" for 10.10.10.100 at 2020-03-10 00:54:54 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"nout"}
+Completed 200 OK in 237ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=nou" for 10.10.10.100 at 2020-03-10 00:54:56 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"nou"}
+Completed 200 OK in 139ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=nuo" for 10.10.10.100 at 2020-03-10 00:54:58 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"nuo"}
+Completed 200 OK in 241ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tao" for 10.10.10.100 at 2020-03-10 00:55:05 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tao"}
+Completed 200 OK in 205ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tau" for 10.10.10.100 at 2020-03-10 00:55:07 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tau"}
+Completed 200 OK in 236ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tua" for 10.10.10.100 at 2020-03-10 00:55:09 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tua"}
+Completed 200 OK in 215ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=quet" for 10.10.10.100 at 2020-03-10 01:00:21 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"quet"}
+Completed 200 OK in 169ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=set" for 10.10.10.100 at 2020-03-10 01:00:25 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"set"}
+Completed 200 OK in 185ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=lim" for 10.10.10.100 at 2020-03-10 01:00:27 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"lim"}
+Completed 200 OK in 112ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tei" for 10.10.10.100 at 2020-03-10 01:00:30 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tei"}
+Completed 200 OK in 269ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=teg" for 10.10.10.100 at 2020-03-10 01:00:32 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"teg"}
+Completed 200 OK in 200ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=get" for 10.10.10.100 at 2020-03-10 01:00:34 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"get"}
+Completed 200 OK in 81ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=ten" for 10.10.10.100 at 2020-03-10 01:00:36 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"ten"}
+Completed 200 OK in 204ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=teen" for 10.10.10.100 at 2020-03-10 01:00:39 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"teen"}
+Completed 200 OK in 200ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=het" for 10.10.10.100 at 2020-03-10 01:00:40 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"het"}
+Completed 200 OK in 124ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=hen" for 10.10.10.100 at 2020-03-10 01:00:42 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"hen"}
+Completed 200 OK in 88ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=hee" for 10.10.10.100 at 2020-03-10 01:00:45 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"hee"}
+Completed 200 OK in 90ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=here" for 10.10.10.100 at 2020-03-10 01:00:52 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"here"}
+Completed 200 OK in 90ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=ret" for 10.10.10.100 at 2020-03-10 01:01:22 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"ret"}
+Completed 200 OK in 175ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=iti" for 10.10.10.100 at 2020-03-10 01:01:30 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"iti"}
+Completed 200 OK in 272ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=sit" for 10.10.10.100 at 2020-03-10 01:02:45 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"sit"}
+Completed 200 OK in 185ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=lit" for 10.10.10.100 at 2020-03-10 01:02:47 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"lit"}
+Completed 200 OK in 115ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=till" for 10.10.10.100 at 2020-03-10 01:02:49 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"till"}
+Completed 200 OK in 209ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=til" for 10.10.10.100 at 2020-03-10 01:02:50 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"til"}
+Completed 200 OK in 207ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=yil" for 10.10.10.100 at 2020-03-10 01:02:51 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"yil"}
+Completed 200 OK in 272ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=yit" for 10.10.10.100 at 2020-03-10 01:02:53 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"yit"}
+Completed 200 OK in 240ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=lat" for 10.10.10.100 at 2020-03-10 01:02:58 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"lat"}
+Completed 200 OK in 110ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=latiy" for 10.10.10.100 at 2020-03-10 01:03:01 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"latiy"}
+Completed 200 OK in 236ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=jit" for 10.10.10.100 at 2020-03-10 01:03:06 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"jit"}
+Completed 200 OK in 237ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=nit" for 10.10.10.100 at 2020-03-10 01:03:07 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"nit"}
+Completed 200 OK in 165ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=niit" for 10.10.10.100 at 2020-03-10 01:03:09 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"niit"}
+Completed 200 OK in 238ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=hit" for 10.10.10.100 at 2020-03-10 01:03:12 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"hit"}
+Completed 200 OK in 97ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=hits" for 10.10.10.100 at 2020-03-10 01:03:16 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"hits"}
+Completed 200 OK in 92ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=lits" for 10.10.10.100 at 2020-03-10 01:03:18 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"lits"}
+Completed 200 OK in 111ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=you" for 10.10.10.100 at 2020-03-10 01:03:22 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"you"}
+Completed 200 OK in 138ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=noef" for 10.10.10.100 at 2020-03-10 01:03:30 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"noef"}
+Completed 200 OK in 236ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=feon" for 10.10.10.100 at 2020-03-10 01:03:34 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"feon"}
+Completed 200 OK in 236ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=yoe" for 10.10.10.100 at 2020-03-10 01:03:48 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"yoe"}
+Completed 200 OK in 105ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=hut" for 10.10.10.100 at 2020-03-10 01:03:58 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"hut"}
+Completed 200 OK in 95ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=huts" for 10.10.10.100 at 2020-03-10 01:04:00 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"huts"}
+Completed 200 OK in 129ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=huit" for 10.10.10.100 at 2020-03-10 01:04:04 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"huit"}
+Completed 200 OK in 233ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=fuiy" for 10.10.10.100 at 2020-03-10 01:04:14 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"fuiy"}
+Completed 200 OK in 241ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=fuit" for 10.10.10.100 at 2020-03-10 01:04:15 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"fuit"}
+Completed 200 OK in 237ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=jut" for 10.10.10.100 at 2020-03-10 01:04:23 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"jut"}
+Completed 200 OK in 105ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=liy" for 10.10.10.100 at 2020-03-10 01:04:32 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"liy"}
+Completed 200 OK in 272ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=liaskdfk" for 10.10.10.100 at 2020-03-10 01:04:40 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"liaskdfk"}
+Completed 200 OK in 233ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=zee" for 10.10.10.100 at 2020-03-10 01:06:47 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"zee"}
+Completed 200 OK in 241ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=zeet" for 10.10.10.100 at 2020-03-10 01:06:48 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"zeet"}
+Completed 200 OK in 233ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tee" for 10.10.10.100 at 2020-03-10 01:06:50 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tee"}
+Completed 200 OK in 205ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tei" for 10.10.10.100 at 2020-03-10 01:06:51 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tei"}
+Completed 200 OK in 269ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tez" for 10.10.10.100 at 2020-03-10 01:06:53 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tez"}
+Completed 200 OK in 203ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=teez" for 10.10.10.100 at 2020-03-10 01:06:54 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"teez"}
+Completed 200 OK in 236ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=lit" for 10.10.10.100 at 2020-03-10 01:06:55 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"lit"}
+Completed 200 OK in 114ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=lite" for 10.10.10.100 at 2020-03-10 01:06:58 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"lite"}
+Completed 200 OK in 111ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=litee" for 10.10.10.100 at 2020-03-10 01:07:00 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"litee"}
+Completed 200 OK in 270ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=coy" for 10.10.10.100 at 2020-03-10 01:07:04 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"coy"}
+Completed 200 OK in 46ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=noy" for 10.10.10.100 at 2020-03-10 01:07:06 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"noy"}
+Completed 200 OK in 130ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=noc" for 10.10.10.100 at 2020-03-10 01:07:06 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"noc"}
+Completed 200 OK in 239ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=ree" for 10.10.10.100 at 2020-03-10 01:07:11 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"ree"}
+Completed 200 OK in 171ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=reil" for 10.10.10.100 at 2020-03-10 01:07:14 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"reil"}
+Completed 200 OK in 272ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=reel" for 10.10.10.100 at 2020-03-10 01:07:15 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"reel"}
+Completed 200 OK in 168ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=bet" for 10.10.10.100 at 2020-03-10 01:07:22 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"bet"}
+Completed 200 OK in 26ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=bee" for 10.10.10.100 at 2020-03-10 01:07:23 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"bee"}
+Completed 200 OK in 23ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=beel" for 10.10.10.100 at 2020-03-10 01:07:25 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"beel"}
+Completed 200 OK in 236ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=beli" for 10.10.10.100 at 2020-03-10 01:07:30 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"beli"}
+Completed 200 OK in 237ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=zeel" for 10.10.10.100 at 2020-03-10 01:07:37 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"zeel"}
+Completed 200 OK in 271ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=zel" for 10.10.10.100 at 2020-03-10 01:07:40 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"zel"}
+Completed 200 OK in 241ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=cil" for 10.10.10.100 at 2020-03-10 01:07:43 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"cil"}
+Completed 200 OK in 235ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=ciil" for 10.10.10.100 at 2020-03-10 01:07:44 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"ciil"}
+Completed 200 OK in 237ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=naughty" for 10.10.10.100 at 2020-03-10 01:07:58 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"naughty"}
+Completed 200 OK in 131ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=hello" for 10.10.10.100 at 2020-03-10 01:08:04 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"hello"}
+Completed 200 OK in 122ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=yupiee" for 10.10.10.100 at 2020-03-10 01:08:08 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"yupiee"}
+Completed 200 OK in 236ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=hahaha" for 10.10.10.100 at 2020-03-10 01:08:13 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"hahaha"}
+Completed 200 OK in 237ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=haha" for 10.10.10.100 at 2020-03-10 01:08:14 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"haha"}
+Completed 200 OK in 88ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=saw" for 10.10.10.100 at 2020-03-10 01:09:06 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"saw"}
+Completed 200 OK in 180ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=wer" for 10.10.10.100 at 2020-03-10 01:09:13 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"wer"}
+Completed 200 OK in 269ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=reet" for 10.10.10.100 at 2020-03-10 01:09:39 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"reet"}
+Completed 200 OK in 172ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=ree" for 10.10.10.100 at 2020-03-10 01:09:43 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"ree"}
+Completed 200 OK in 167ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=take" for 10.10.10.100 at 2020-03-10 01:09:46 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"take"}
+Completed 200 OK in 200ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=nerm" for 10.10.10.100 at 2020-03-10 01:10:07 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"nerm"}
+Completed 200 OK in 234ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=erm" for 10.10.10.100 at 2020-03-10 01:10:09 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"erm"}
+Completed 200 OK in 267ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=mue" for 10.10.10.100 at 2020-03-10 01:14:05 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"mue"}
+Completed 200 OK in 236ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tos" for 10.10.10.100 at 2020-03-10 01:19:58 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tos"}
+Completed 200 OK in 207ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=dit" for 10.10.10.100 at 2020-03-10 01:20:02 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"dit"}
+Completed 200 OK in 63ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tie" for 10.10.10.100 at 2020-03-10 01:21:19 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tie"}
+Completed 200 OK in 209ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tieh" for 10.10.10.100 at 2020-03-10 01:21:25 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tieh"}
+Completed 200 OK in 275ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tie" for 10.10.10.100 at 2020-03-10 01:23:59 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tie"}
+Completed 200 OK in 206ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=ket" for 10.10.10.100 at 2020-03-10 01:24:03 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"ket"}
+Completed 200 OK in 106ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=til" for 10.10.10.100 at 2020-03-10 01:25:57 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"til"}
+Completed 200 OK in 205ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=lit" for 10.10.10.100 at 2020-03-10 01:25:59 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"lit"}
+Completed 200 OK in 112ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=cit" for 10.10.10.100 at 2020-03-10 01:26:00 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"cit"}
+Completed 200 OK in 74ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tup" for 10.10.10.100 at 2020-03-10 01:26:51 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tup"}
+Completed 200 OK in 211ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=put" for 10.10.10.100 at 2020-03-10 01:26:52 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"put"}
+Completed 200 OK in 165ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=fot" for 10.10.10.100 at 2020-03-10 01:26:55 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"fot"}
+Completed 200 OK in 79ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=foo" for 10.10.10.100 at 2020-03-10 01:26:56 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"foo"}
+Completed 200 OK in 72ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=lila" for 10.10.10.100 at 2020-03-10 01:54:08 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"lila"}
+Completed 200 OK in 111ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=asdf" for 10.10.10.100 at 2020-03-10 01:55:48 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"asdf"}
+Completed 200 OK in 272ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=eer" for 10.10.10.100 at 2020-03-10 02:02:50 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"eer"}
+Completed 200 OK in 62ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=koi" for 10.10.10.100 at 2020-03-10 02:03:14 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"koi"}
+Completed 200 OK in 107ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=bui" for 10.10.10.100 at 2020-03-10 02:03:23 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"bui"}
+Completed 200 OK in 240ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=till" for 10.10.10.100 at 2020-03-10 02:04:35 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"till"}
+Completed 200 OK in 211ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=tib" for 10.10.10.100 at 2020-03-10 02:04:40 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tib"}
+Completed 200 OK in 204ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=let" for 10.10.10.100 at 2020-03-10 02:08:15 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"let"}
+Completed 200 OK in 143ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=sup" for 10.10.10.100 at 2020-03-10 02:11:13 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"sup"}
+Completed 200 OK in 199ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=supb" for 10.10.10.100 at 2020-03-10 02:11:19 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"supb"}
+Completed 200 OK in 237ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=nose" for 10.10.10.100 at 2020-03-10 02:11:23 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"nose"}
+Completed 200 OK in 132ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=nosei" for 10.10.10.100 at 2020-03-10 02:11:33 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"nosei"}
+Completed 200 OK in 235ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=moug" for 10.10.10.100 at 2020-03-10 02:11:40 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"moug"}
+Completed 200 OK in 270ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=pol" for 10.10.10.100 at 2020-03-10 02:12:19 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"pol"}
+Completed 200 OK in 156ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tolk" for 10.10.10.100 at 2020-03-10 02:12:22 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tolk"}
+Completed 200 OK in 239ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=lot" for 10.10.10.100 at 2020-03-10 02:12:25 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"lot"}
+Completed 200 OK in 116ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=poll" for 10.10.10.100 at 2020-03-10 02:12:30 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"poll"}
+Completed 200 OK in 155ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=wot" for 10.10.10.100 at 2020-03-10 02:12:32 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"wot"}
+Completed 200 OK in 269ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=rip" for 10.10.10.100 at 2020-03-10 02:12:38 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"rip"}
+Completed 200 OK in 174ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=fip" for 10.10.10.100 at 2020-03-10 02:12:40 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"fip"}
+Completed 200 OK in 73ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=tia" for 10.10.10.100 at 2020-03-10 02:13:08 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tia"}
+Completed 200 OK in 240ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=not" for 10.10.10.100 at 2020-03-10 02:13:13 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"not"}
+Completed 200 OK in 138ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tok" for 10.10.10.100 at 2020-03-10 02:13:15 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tok"}
+Completed 200 OK in 272ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=hut" for 10.10.10.100 at 2020-03-10 02:13:17 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"hut"}
+Completed 200 OK in 94ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=ret" for 10.10.10.100 at 2020-03-10 02:13:22 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"ret"}
+Completed 200 OK in 177ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=met" for 10.10.10.100 at 2020-03-10 02:13:25 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"met"}
+Completed 200 OK in 124ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=mes" for 10.10.10.100 at 2020-03-10 02:13:29 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"mes"}
+Completed 200 OK in 120ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tes" for 10.10.10.100 at 2020-03-10 02:13:31 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tes"}
+Completed 200 OK in 270ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=sut" for 10.10.10.100 at 2020-03-10 02:13:51 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"sut"}
+Completed 200 OK in 235ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=shut" for 10.10.10.100 at 2020-03-10 02:13:53 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"shut"}
+Completed 200 OK in 187ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=hut" for 10.10.10.100 at 2020-03-10 02:13:57 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"hut"}
+Completed 200 OK in 93ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=mut" for 10.10.10.100 at 2020-03-10 02:13:59 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"mut"}
+Completed 200 OK in 127ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=rut" for 10.10.10.100 at 2020-03-10 02:14:00 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"rut"}
+Completed 200 OK in 214ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=rush" for 10.10.10.100 at 2020-03-10 02:14:04 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"rush"}
+Completed 200 OK in 178ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=rat" for 10.10.10.100 at 2020-03-10 02:14:08 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"rat"}
+Completed 200 OK in 168ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tut" for 10.10.10.100 at 2020-03-10 02:14:11 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tut"}
+Completed 200 OK in 213ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=wut" for 10.10.10.100 at 2020-03-10 02:14:12 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"wut"}
+Completed 200 OK in 238ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=pot" for 10.10.10.100 at 2020-03-10 02:15:10 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"pot"}
+Completed 200 OK in 193ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=poty" for 10.10.10.100 at 2020-03-10 02:15:13 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"poty"}
+Completed 200 OK in 237ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=tot" for 10.10.10.100 at 2020-03-10 02:15:17 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"tot"}
+Completed 200 OK in 210ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=pok" for 10.10.10.100 at 2020-03-10 02:15:20 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"pok"}
+Completed 200 OK in 234ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=rep" for 10.10.10.100 at 2020-03-10 02:15:25 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"rep"}
+Completed 200 OK in 174ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=pet" for 10.10.10.100 at 2020-03-10 02:15:28 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"pet"}
+Completed 200 OK in 186ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=vope" for 10.10.10.100 at 2020-03-10 02:15:37 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"vope"}
+Completed 200 OK in 235ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=sip" for 10.10.10.100 at 2020-03-10 02:22:25 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"sip"}
+Completed 200 OK in 191ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=see" for 10.10.10.100 at 2020-03-10 02:22:29 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"see"}
+Completed 200 OK in 182ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=seek" for 10.10.10.100 at 2020-03-10 02:22:32 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"seek"}
+Completed 200 OK in 182ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=bee" for 10.10.10.100 at 2020-03-10 02:22:35 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"bee"}
+Completed 200 OK in 58ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=koss" for 10.10.10.100 at 2020-03-10 02:22:46 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"koss"}
+Completed 200 OK in 108ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=siip" for 10.10.10.100 at 2020-03-10 02:22:51 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"siip"}
+Completed 200 OK in 236ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=red" for 10.10.10.100 at 2020-03-10 02:23:26 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"red"}
+Completed 200 OK in 167ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=pig" for 10.10.10.100 at 2020-03-10 02:23:30 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"pig"}
+Completed 200 OK in 153ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=sum" for 10.10.10.100 at 2020-03-10 02:23:31 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"sum"}
+Completed 200 OK in 201ms (Views: 0.2ms)
+
+
+Started GET "/validate?word=pim" for 10.10.10.100 at 2020-03-10 02:23:34 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"pim"}
+Completed 200 OK in 187ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=gim" for 10.10.10.100 at 2020-03-10 02:23:36 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"gim"}
+Completed 200 OK in 86ms (Views: 0.3ms)
+
+
+Started GET "/validate?word=sled" for 10.10.10.100 at 2020-03-10 02:23:41 +0545
+Processing by ValidateWordsController#validate as JSON
+  Parameters: {"word"=>"sled"}
+Completed 200 OK in 189ms (Views: 0.2ms)
+
+

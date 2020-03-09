@@ -199,3 +199,129 @@ ValidateWordsControllerTest: test_should_have_file_access
 Started GET "/validate" for 127.0.0.1 at 2020-03-09 13:13:59 +0545
 Processing by ValidateWordsController#validate as HTML
 Completed 200 OK in 218ms (Views: 1.1ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate?word=test" for 127.0.0.1 at 2020-03-09 17:00:44 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 194ms (Views: 0.4ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate?word=test" for 127.0.0.1 at 2020-03-09 17:10:48 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 170ms (Views: 0.9ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate?word=test" for 127.0.0.1 at 2020-03-09 17:12:28 +0545
+Processing by ValidateWordsController#validate as HTML
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 189ms (Views: 0.4ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate?word=test" for 127.0.0.1 at 2020-03-09 17:18:52 +0545
+Processing by ValidateWordsController#validate as JS
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 172ms (Views: 1.1ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate?word=test" for 127.0.0.1 at 2020-03-09 17:27:56 +0545
+Processing by ValidateWordsController#validate as JS
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 170ms (Views: 0.4ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate?word=test" for 127.0.0.1 at 2020-03-09 17:28:18 +0545
+Processing by ValidateWordsController#validate as JS
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 203ms (Views: 0.4ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate?word=test" for 127.0.0.1 at 2020-03-09 17:28:40 +0545
+Processing by ValidateWordsController#validate as JS
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 168ms (Views: 0.9ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate?word=test" for 127.0.0.1 at 2020-03-09 17:34:55 +0545
+Processing by ValidateWordsController#validate as JS
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 170ms (Views: 1.0ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate?word=test" for 127.0.0.1 at 2020-03-09 17:36:04 +0545
+Processing by ValidateWordsController#validate as JS
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 186ms (Views: 0.4ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate?word=test" for 127.0.0.1 at 2020-03-09 17:36:20 +0545
+Processing by ValidateWordsController#validate as JS
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 170ms (Views: 1.2ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate?word=test" for 127.0.0.1 at 2020-03-09 17:37:01 +0545
+Processing by ValidateWordsController#validate as JS
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 166ms (Views: 0.5ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate?word=test" for 127.0.0.1 at 2020-03-09 17:37:33 +0545
+Processing by ValidateWordsController#validate as JS
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 200ms (Views: 0.4ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_file_access
+---------------------------------------------------------
+Started GET "/validate?word=test" for 127.0.0.1 at 2020-03-09 17:37:52 +0545
+Processing by ValidateWordsController#validate as JS
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 169ms (Views: 0.7ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_return_true
+---------------------------------------------------------
+Started GET "/validate?word=test" for 127.0.0.1 at 2020-03-09 17:38:21 +0545
+Processing by ValidateWordsController#validate as JS
+  Parameters: {"word"=>"test"}
+Completed 200 OK in 193ms (Views: 0.4ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_return_true
+---------------------------------------------------------
+Started GET "/validate?word=testaksjdfkjakd" for 127.0.0.1 at 2020-03-09 17:38:41 +0545
+Processing by ValidateWordsController#validate as JS
+  Parameters: {"word"=>"testaksjdfkjakd"}
+Completed 200 OK in 197ms (Views: 0.9ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_return_true
+---------------------------------------------------------
+Started GET "/validate?word=code" for 127.0.0.1 at 2020-03-09 17:39:13 +0545
+Processing by ValidateWordsController#validate as JS
+  Parameters: {"word"=>"code"}
+Completed 200 OK in 50ms (Views: 0.4ms)
+----------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_return_false
+----------------------------------------------------------
+Started GET "/validate?word=noword" for 127.0.0.1 at 2020-03-09 17:40:23 +0545
+Processing by ValidateWordsController#validate as JS
+  Parameters: {"word"=>"noword"}
+Completed 200 OK in 201ms (Views: 1.2ms)
+---------------------------------------------------------
+ValidateWordsControllerTest: test_should_have_return_true
+---------------------------------------------------------
+Started GET "/validate?word=code" for 127.0.0.1 at 2020-03-09 17:40:23 +0545
+Processing by ValidateWordsController#validate as JS
+  Parameters: {"word"=>"code"}
+Completed 200 OK in 38ms (Views: 0.3ms)
